@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "zhhangsan"
+    },
+    {
+      "id": 2,
+      "name": "weizhang1"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "name": "weizhang1"
+    }
+  ]
+}
